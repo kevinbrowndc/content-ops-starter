@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Kevin Brown Moreno
+      text: Kevin Ray Brown Moreno
       color: text-dark
       type: TitleBlock
     subtitle: ''
