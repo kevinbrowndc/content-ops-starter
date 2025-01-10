@@ -1,4 +1,4 @@
----
+onal Portfolio---
 title: Home
 slug: /
 sections:
@@ -7,11 +7,9 @@ sections:
       text: Kevin Brown Moreno
       color: text-dark
       type: TitleBlock
-    subtitle: MA Curriculum & Instruction / MS Information Sytemes (2027)
+    subtitle: Professional Portfolio
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Kevin holds a Masters in Curriculum & Instruction and is completing an MS in Informations Systems (2027). Kevin holds work permits in the United States, Europe and El Savador. 
     actions:
       - label: Get started
         altText: ''
