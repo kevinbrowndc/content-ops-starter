@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Professional Portfolio
       color: text-primary
       type: Badge
     elementId: ''
