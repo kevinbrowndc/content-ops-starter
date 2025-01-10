@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Professional Portfolio
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Kevin holds a Masters in Curriculum & Instruction and is scheduled to
+      complete an MS in Information Systems (2027). Kevin hold nationality in
+      the United States and El Salvador and is scheduled to hold nationality in
+      Cyprus affording him the right to work in the US, Central America and
+      Europe. 
     actions:
       - label: Get started
         altText: ''
