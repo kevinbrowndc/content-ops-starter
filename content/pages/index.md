@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736537987/main-hero_mdzchf.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
