@@ -7,7 +7,7 @@ sections:
       text: Kevin Brown Moreno
       color: text-dark
       type: TitleBlock
-    subtitle: Professional Portfolio
+    subtitle: ''
     text: >
       Kevin holds a Masters in Curriculum & Instruction and is scheduled to
       complete an MS in Information Systems (2027). Kevin hold nationality in
