@@ -64,10 +64,11 @@ sections:
       - type: FeaturedItem
         title: Education
         subtitle: MAT Curriculum & Instruction (2006)
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          20+ years of experience in Education at all levels from classroom
+          teacher to Associate Peace Corps Director of the Education proogram in
+          Costa Rica to National Training at the Department of Labor in
+          Washington DC.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
