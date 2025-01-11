@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Education
-        subtitle: MAT Curriculum & Instruction
+        subtitle: MAT Curriculum & Instruction (2006)
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
