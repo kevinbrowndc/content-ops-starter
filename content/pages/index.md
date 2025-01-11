@@ -172,11 +172,11 @@ sections:
         textAlign: center
   - subtitle: Qualities You Can Count On
     images:
-      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736580512/positive-attitude_gsue6p.jpg
-        altText: Forward Thinking
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736583963/positive-attitude_yaxu7i.jpg
+        altText: Positive Attitude
         type: ImageBlock
       - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736583617/foward-thinking_rgyysy.jpg
-        altText: Wellster logo
+        altText: Forward Thinking
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
