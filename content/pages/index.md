@@ -172,8 +172,8 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736580512/positive-attitude_gsue6p.jpg
+        altText: Postive Thinking
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
