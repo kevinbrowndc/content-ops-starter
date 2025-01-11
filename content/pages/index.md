@@ -91,7 +91,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Technology
-        subtitle: The Job Stuff
+        subtitle: MS Information Systems (2027)
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
