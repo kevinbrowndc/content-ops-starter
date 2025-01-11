@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Postive, Committed, Hard Working and Forward Thinking'
     items:
       - type: FeaturedItem
         title: Education
