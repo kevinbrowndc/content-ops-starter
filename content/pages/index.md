@@ -187,8 +187,8 @@ sections:
       - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736586108/driven-by-results_nwtf6c.jpg
         altText: Driven By Results
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736586620/ambition_qfqctf.jpg
+        altText: Ambition 
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
