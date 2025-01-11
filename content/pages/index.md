@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Postive, Committed, Hard Working and Forward Thinking'
+    subtitle: A Leader in Education and Technology
     items:
       - type: FeaturedItem
         title: Education
