@@ -141,7 +141,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Contact Now
         altText: ''
         url: /
         showIcon: false
