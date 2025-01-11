@@ -175,7 +175,7 @@ sections:
       - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736580512/positive-attitude_gsue6p.jpg
         altText: Forward Thinking
         type: ImageBlock
-      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736581184/foward-thinking_kmlcqo.jpg
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736583617/foward-thinking_rgyysy.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
