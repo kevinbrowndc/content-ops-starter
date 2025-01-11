@@ -119,10 +119,10 @@ sections:
         type: FeaturedItem
       - title: Management
         subtitle: Chief Operating Officer at HR Innovate
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          An agile project manager who has proven time and again the ability to
+          grow programs and projects with minimal resources while building
+          strong relationships with peers. 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
