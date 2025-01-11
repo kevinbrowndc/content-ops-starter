@@ -115,7 +115,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Mangement
+      - title: Management
         subtitle: Chief Operating Officer at HR Innovate
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
