@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: >-
-    /images/img-placeholder.svg
+    https://res.cloudinary.com/ddwt8eygx/image/upload/v1736603484/American-Corner_uzncfj.jpg
   altText: Case study 3
   styles:
     self:
