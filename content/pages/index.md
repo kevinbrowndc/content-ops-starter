@@ -190,7 +190,7 @@ sections:
       - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736586620/ambition_qfqctf.jpg
         altText: Ambition 
         type: ImageBlock
-      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736587978/Analytic_yaom0y.jpg
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736588258/Analytic_oqmatx.jpg
         altText: Analytic
         type: ImageBlock
     motion: move-to-left
