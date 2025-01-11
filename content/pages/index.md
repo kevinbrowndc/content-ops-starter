@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736537987/main-hero_mdzchf.jpg
+      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -172,26 +172,26 @@ sections:
         textAlign: center
   - subtitle: Qualities You Can Count On
     images:
-      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736583963/positive-attitude_yaxu7i.jpg
-        altText: Positive Attitude
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
         type: ImageBlock
-      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736583617/foward-thinking_rgyysy.jpg
-        altText: Forward Thinking
+      - url: /images/wellster-logo.svg
+        altText: Wellster logo
         type: ImageBlock
-      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736584534/creative_olop0w.jpg
-        altText: Creative
+      - url: /images/vise-logo.svg
+        altText: Vise logo
         type: ImageBlock
-      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736585713/empathy_p44wqk.jpg
-        altText: Empathy
+      - url: /images/telus-logo.svg
+        altText: Telus logo
         type: ImageBlock
-      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736586108/driven-by-results_nwtf6c.jpg
-        altText: Driven By Results
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
         type: ImageBlock
-      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736586620/ambition_qfqctf.jpg
-        altText: Ambition 
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
         type: ImageBlock
-      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736588258/Analytic_oqmatx.jpg
-        altText: Analytic
+      - url: /images/rangle-logo.svg
+        altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark

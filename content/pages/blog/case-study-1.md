@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736597058/kevin-teaching-in-field_ffmm0w.jpg
+  url: /images/abstract-background.svg
   altText: Case study 1
   styles:
     self:
