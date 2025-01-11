@@ -8,12 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      Kevin holds a Masters in Curriculum & Instruction and is scheduled to
-      complete an MS in Information Systems (2027). Kevin hold nationality in
-      the United States and El Salvador and is scheduled to hold nationality in
-      Cyprus affording him the right to work in the US, Central America and
-      Europe. 
+    text: "**Professional Objective:** To acquire a job that best utilizes my knowledge, skills\_and\_abilities at the cross-section of Education and Technology.\n"
     actions:
       - label: Get started
         altText: ''
