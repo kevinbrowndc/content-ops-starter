@@ -175,23 +175,23 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736588258/Analytic_oqmatx.jpg
+        altText: Analytic logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736586620/ambition_qfqctf.jpg
+        altText: Ambition logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736586108/driven-by-results_nwtf6c.jpg
+        altText: Results Driven logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736584534/creative_olop0w.jpg
+        altText: Creative logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736583963/positive-attitude_yaxu7i.jpg
+        altText: Positive Attitude logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736583617/foward-thinking_rgyysy.jpg
+        altText: Forward Thinking logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
