@@ -178,8 +178,8 @@ sections:
       - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736583617/foward-thinking_rgyysy.jpg
         altText: Forward Thinking
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736584534/creative_olop0w.jpg
+        altText: Creative
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
