@@ -172,7 +172,7 @@ sections:
         textAlign: center
   - subtitle: Qualities You Can Count On
     images:
-      - url: /images/empathy-logo.svg
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736585713/empathy_p44wqk.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736588258/Analytic_oqmatx.jpg
