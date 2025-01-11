@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: View LinkedIn Profile
         altText: ''
         url: /
         showIcon: true
