@@ -151,7 +151,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: KEVIN RAY BROWN MORENO
       color: text-primary
       styles:
         self:
