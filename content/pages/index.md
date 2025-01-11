@@ -116,7 +116,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Mangement
-        subtitle: Faster
+        subtitle: Chief Operating Officer at HR Innovate
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
