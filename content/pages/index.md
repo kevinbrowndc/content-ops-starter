@@ -8,9 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      <b>Professional Objective:</b> To acquire a remote job that best utilizes my knowledge, skills and abilities. 
-      ac0ons:
+    text: "**Professional Objective:** To acquire a job that best utilizes my knowledge, skills\_and\_abilities at the cross-section of Education and Technology.\n"
+    actions:
       - label: Get started
         altText: ''
         url: /
