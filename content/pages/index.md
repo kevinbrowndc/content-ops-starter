@@ -13,7 +13,7 @@ sections:
       leveraging my expertise at the intersection of Education, Technology, and
       Management to drive innovation, efficiency, and growth in a remote role.
     actions:
-      - label: Get started
+      - label: View CV
         altText: ''
         url: /
         showIcon: false
