@@ -120,9 +120,9 @@ sections:
       - title: Management
         subtitle: Chief Operating Officer at HR Innovate
         text: >
-          An agile project manager who has proven time and again the ability to
-          grow programs and projects with minimal resources while building
-          strong relationships with peers. 
+          An agile project manager who has proven time and again, over 20 years,
+          the ability to grow programs and projects with minimal resources while
+          building strong relationships with peers.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
