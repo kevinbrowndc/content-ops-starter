@@ -1,5 +1,5 @@
 ---
-title: Building International Education Programs
+title: Building Education Programs in Central America
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
