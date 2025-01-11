@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736599468/kevin-sofia_uvllku.jpg
   altText: Case study 2
   styles:
     self:
