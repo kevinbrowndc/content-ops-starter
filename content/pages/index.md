@@ -190,8 +190,8 @@ sections:
       - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736586620/ambition_qfqctf.jpg
         altText: Ambition 
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736587978/Analytic_yaom0y.jpg
+        altText: Analytic
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
