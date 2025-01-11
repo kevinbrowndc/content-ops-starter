@@ -184,8 +184,8 @@ sections:
       - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736585713/empathy_p44wqk.jpg
         altText: Empathy
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736586108/driven-by-results_nwtf6c.jpg
+        altText: Driven By Results
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
