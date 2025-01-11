@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Key Competencies
       color: text-dark
       styles:
         self:
@@ -62,12 +62,13 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Education
+        subtitle: MAT Curriculum & Instruction (2006)
+        text: >
+          20+ years of experience in Education at all levels from classroom
+          teacher to Associate Peace Corps Director of the Education proogram in
+          Costa Rica to National Training at the Department of Labor in
+          Washington DC.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +91,13 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Technology
+        subtitle: MS Information Systems (2027)
+        text: >
+          Experienced in identifying and utilizing the best technology solution
+          for the task at hand. From building out eLearning modules to growing
+          and analyzing databases. Coding skills include Python, Selenium, HTML,
+          CSS and Javascript.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,8 +117,8 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: Management
+        subtitle: Chief Operating Officer at HR Innovate
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
