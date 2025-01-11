@@ -170,7 +170,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Qualities You Can Count On
     images:
       - url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736580512/positive-attitude_gsue6p.jpg
         altText: Postive Thinking
