@@ -8,7 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "**Objective:** To acquire a remote role that best utilizes my knowledge, skills\_and\_abilities at the cross-section of Education, Technology and Management.\n"
+    text: >
+      **Objective:** To contribute to the success of an organization by
+      leveraging my expertise at the intersection of Education, Technology, and
+      Management to drive innovation, efficiency, and growth in a remote role.
     actions:
       - label: Get started
         altText: ''
