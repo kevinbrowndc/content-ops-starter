@@ -243,12 +243,13 @@ sections:
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
+    
+     type: ImageBlock
       url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736703696/communication_yhdp7k.jpg
       controls: false
       aspectRatio: '16:9'
-      styles:
+
+          styles:
         self:
           padding:
             - pt-2
