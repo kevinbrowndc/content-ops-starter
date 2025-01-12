@@ -243,9 +243,9 @@ sections:
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    
+    media:
        image:
-          url: /images/icon3.svg
+          url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736703696/communication_yhdp7k.jpg
           altText: Communicatiom
           elementId: ''
           type: ImageBlock
