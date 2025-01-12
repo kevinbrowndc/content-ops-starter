@@ -250,18 +250,7 @@ sections:
       loop: true
       muted: true
       controls: false
-    
-          styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+  
       type: VideoBlock
       autoplay: true
       loop: true
