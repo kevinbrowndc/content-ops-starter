@@ -244,11 +244,12 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
-       image:
-          url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736703696/communication_yhdp7k.jpg
-          altText: Communicatiom
-          elementId: ''
-          type: ImageBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
     
           styles:
         self:
