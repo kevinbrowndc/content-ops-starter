@@ -206,7 +206,7 @@ sections:
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
-    showDate: true
+    showDate: false
     showAuthor: true
     variant: three-col-grid
     colors: bg-light-fg-dark
@@ -240,19 +240,16 @@ sections:
       type: TitleBlock
     subtitle: From Multinational Conferences to Small Villages
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      A higly effective communicator in cross cultural settings, Kevin has experience from large multinational conferences to small villages. Kevin has presented at conference from Senegal to Costa Rica and represented the United States Goverment across the world. Ambassadors, to village chiefs to community womens' groups meeting in a small living room, Kevin is comfortable in any scenario. 
 
     media:
       url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736703696/communication_yhdp7k.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Peace Corps, Washington DC
       elementId: ''
       type: ImageBlock
 
     badge:
-      label: Key Benefits
+      label: Communication
       color: text-primary
       styles:
         self:
