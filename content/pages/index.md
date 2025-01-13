@@ -246,7 +246,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
 
     media:
-      url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736537987/main-hero_mdzchf.jpg
+      url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736703696/communication_yhdp7k.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
