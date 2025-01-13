@@ -243,14 +243,13 @@ sections:
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-   image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
+
+     media:
+      url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736537987/main-hero_mdzchf.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+
     badge:
       label: Key Benefits
       color: text-primary
