@@ -731,8 +731,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Porfessional Portfolio | Kevin Brown Moreno
+  metaDescription: Learnibng and Management Portfolio
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
