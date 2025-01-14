@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Professional Portfolio
+      label: Learning and Management
       color: text-primary
       type: Badge
     elementId: ''
