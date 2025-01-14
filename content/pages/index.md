@@ -732,7 +732,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Porfessional Portfolio | Kevin Brown Moreno
-  metaDescription: Learnibng and Management Portfolio
+  metaDescription: Learninng and Management Portfolio
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
