@@ -731,7 +731,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Porfessional Portfolio | Kevin Brown Moreno
+  metaTitle: Professional Portfolio | Kevin Brown Moreno
   metaDescription: Learninng and Management Portfolio
   socialImage: /images/main-hero.jpg
   type: Seo
