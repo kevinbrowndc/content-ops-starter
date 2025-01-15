@@ -389,20 +389,17 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Reccomedations for Kevin
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “One of the best people to work with. A great guide and listener. He even admits when he’s wrong. I hope I have the pleasure to work with him again as he taught me many things and I’m sure others can learn a lot from him.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Xenia Christodoulidou, HR Innovate'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: https://media.licdn.com/dms/image/v2/D4D03AQFHWeHPnDgKEA/profile-displayphoto-shrink_800_800/B4DZOyBYNjGoAc-/0/1733858526761?e=1742428800&v=beta&t=K3jFvlqdCm3bLz0SIpGl-wvEzBgVD0PNlo_BMEnKYm8
+          altText: Xenia Christodoulidou
           styles:
             self:
               borderRadius: full
