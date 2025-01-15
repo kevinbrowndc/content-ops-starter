@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736537987/main-hero_mdzchf.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Kevin Ray Brown Moreno
       elementId: ''
       type: ImageBlock
     badge:
