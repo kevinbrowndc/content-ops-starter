@@ -419,17 +419,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Kevin worked for the American International School of Lome in two volunteer capacities. He taught in our evening college readiness program. This course focused on high level English and academic skills needed for college. He also designed our entire three level Lab classroom EFL Program for high school students and taught some of the classes himself. He was very professional in his work and also very personal in the sense that students and teachers enjoyed working with him. I would recommend him highly for teaching or for curriculum design."
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: 'Clover Afokpa, American International School of Lome'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+
         image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
+          url: https://media.licdn.com/dms/image/v2/C4E03AQF0prVSmoMZjw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1565211124508?e=1742428800&v=beta&t=soyV4cdnE2TO4cejLSaZi-uiG-PWuQNdnpEvjTMb9pw
+          altText: Clover Afokpa
           styles:
             self:
               borderRadius: full
