@@ -279,8 +279,8 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: Kevin Brown Moreno
+      url: https://res.cloudinary.com/ddwt8eygx/video/upload/v1737049427/Kevin_Brown_Moreno_t0nooz.mp4
       autoplay: true
       loop: true
       muted: true
