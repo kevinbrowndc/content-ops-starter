@@ -304,10 +304,10 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Technology
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Coding, SEO and more...
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
@@ -330,7 +330,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Deep Dive
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
