@@ -273,7 +273,7 @@ sections:
       type: TitleBlock
     subtitle: Digital Strategist with 20 Years Experience in the Field of Education.
     text: |-
-      <a href="mailto:kevinbrown.dc@gmail.com">Send email</a>
+      Hi! I am Kevin. I look forward to meeting you. Check out my video and <a href="mailto:kevinbrown.dc@gmail.com">Send me an email</a> or fill out the contact form below and let's talk. 
     actions: []
     media:
       title: Kevin Brown Moreno
