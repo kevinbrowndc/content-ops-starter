@@ -312,8 +312,8 @@ sections:
       A service that helps businesses to manage their social media accounts and
       posts.
     actions:
-      - label: Get started
-        url: /
+      - label: View Python Flask Code
+        url: https://github.com/kevinbrowndc/flask_app_example/blob/main/flask_app_example
         icon: arrowRight
         iconPosition: right
         style: secondary
