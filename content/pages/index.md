@@ -427,13 +427,17 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >- ""
-
+      - title: >-
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
-        subtitle: 'David Newstead, Peace Corps'
-        
+        subtitle: 'Maria Walters, Company'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
-          url: https://media.licdn.com/dms/image/v2/D5603AQF_elWik4TkSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706716929341?e=1742428800&v=beta&t=bk4zvtW2CtMFRR4X2JPOH4rvM-DGDFS_XMoxCoG5ilU
+          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
