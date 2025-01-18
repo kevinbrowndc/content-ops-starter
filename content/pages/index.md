@@ -346,7 +346,7 @@ sections:
         type: Button
         
     media:
-      url: https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHA5enJqdGt3cWh6dDE4c2N1eDZvajlycnNoODFvcDNwejJxYXEwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Z6TsQsD983KmeQRhr/giphy.gif
+      url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737206722/workshop_w4gesk.jpg
       altText: Spinning Globe
       type: ImageBlock
     badge:
