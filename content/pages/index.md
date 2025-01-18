@@ -427,14 +427,13 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-            "Kevin was the heart and soul of the University of Lome's American 
-  Corner. He routinely brought together a hundred or more enthusiastic 
-  college students. He organized diverse educational activities for the 
-  benefit of his students, was well respected, and incredibly passionate 
-  about what he was doing. I collaborated with Kevin on a number of 
-  projects. Because of his efforts, his students were energized and 
-  motivated. I would gladly work with him again."
+      - title: >- "Kevin was the heart and soul of the University of Lome's American 
+Corner. He routinely brought together a hundred or more enthusiastic 
+college students. He organized diverse educational activities for the 
+benefit of his students, was well respected, and incredibly passionate 
+about what he was doing. I collaborated with Kevin on a number of 
+projects. Because of his efforts, his students were energized and 
+motivated. I would gladly work with him again."
 
         tagline: Testimonial 3
         subtitle: 'David Newstead, Peace Corps'
