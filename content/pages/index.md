@@ -320,8 +320,8 @@ sections:
 
 
     media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
+      url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737188940/python_ekeqrr.jpg
+      altText: Python Flask Sample
       type: ImageBlock
     badge:
       label: Deep Dive
