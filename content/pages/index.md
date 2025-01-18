@@ -428,16 +428,18 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Kevin was the heart and soul of the University of Lome's American 
+Corner. He routinely brought together a hundred or more enthusiastic 
+college students. He organized diverse educational activities for the 
+benefit of his students, was well respected, and incredibly passionate 
+about what he was doing. I collaborated with Kevin on a number of 
+projects. Because of his efforts, his students were energized and 
+motivated. I would gladly work with him again."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 'David Newstead, Peace Corps'
+        
         image:
-          url: /images/person-placeholder-light.png
+          url: https://media.licdn.com/dms/image/v2/D5603AQF_elWik4TkSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706716929341?e=1742428800&v=beta&t=bk4zvtW2CtMFRR4X2JPOH4rvM-DGDFS_XMoxCoG5ilU
           altText: Maria Walters
           styles:
             self:
