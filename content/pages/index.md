@@ -320,7 +320,7 @@ sections:
 
 
     media:
-      url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737188940/python_ekeqrr.jpg
+      url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737190328/python_w55nvy.jpg
       altText: Python Flask Sample
       type: ImageBlock
     badge:
