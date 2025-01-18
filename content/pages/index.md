@@ -428,8 +428,13 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Kevin was the heart and soul of the University of Lome's American 
+Corner. He routinely brought together a hundred or more enthusiastic 
+college students. He organized diverse educational activities for the 
+benefit of his students, was well respected, and incredibly passionate 
+about what he was doing. I collaborated with Kevin on a number of 
+projects. Because of his efforts, his students were energized and 
+motivated. I would gladly work with him again."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
