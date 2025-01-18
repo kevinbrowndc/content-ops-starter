@@ -347,7 +347,7 @@ sections:
         
     media:
       url: https://cdn.dribbble.com/users/4143097/screenshots/9133710/media/63ecbf3046d4520d2c5e4b329ab86bb2.gif
-      altText: Globe
+      altText: Spinning Globe
       type: ImageBlock
     badge:
       label: Deep Dive
