@@ -309,7 +309,7 @@ sections:
       type: TitleBlock
     subtitle: Coding, Technical SEO and more...
     text: >
-      Coding since the late '80s, Kevin is a Technology enthuisasst who believes that we should not use technology just for technology sake = but place appropriately can be a be of great benefit.
+      Coding since the late '80s, Kevin is a Technology enthuisasst who believes that we should not use technology just for technology sake, but placed appropriately can be of great benefit.
     actions:
       - label: View Python Flask Code
         url: https://github.com/kevinbrowndc/flask_app_example/blob/main/flask_app_example
@@ -317,7 +317,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+
 
     media:
       url: /images/hero2.svg
