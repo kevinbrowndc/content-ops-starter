@@ -317,8 +317,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-
-
     media:
       url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737190328/python_w55nvy.jpg
       altText: Python Flask Sample
@@ -333,27 +331,21 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Curriculum
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: MAT Curriculum & Instruction
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
     actions:
-      - label: Get started
-        url: /
+      - label: View Sample Lesson Plan
+        url: https://docs.google.com/document/d/1kfdtNa3aGlLZSSrlsFakklAJCeMI711y/edit?usp=sharing&ouid=109873772328491221776&rtpof=true&sd=true
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+        
     media:
       url: /images/hero3.svg
       altText: Dope design preview
