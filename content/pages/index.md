@@ -346,7 +346,7 @@ sections:
         type: Button
         
     media:
-      url: https://mir-s3-cdn-cf.behance.net/project_modules/disp/9e715d17935609.562c11d9e3832.gif
+      url: https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHA5enJqdGt3cWh6dDE4c2N1eDZvajlycnNoODFvcDNwejJxYXEwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Z6TsQsD983KmeQRhr/giphy.gif
       altText: Spinning Globe
       type: ImageBlock
     badge:
