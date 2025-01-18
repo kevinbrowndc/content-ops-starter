@@ -347,11 +347,11 @@ sections:
         type: Button
         
     media:
-      url: /images/hero3.svg
-      altText: Dope design preview
+      url: https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dobTNobDV4azZrMjhyM2ZmaTNiZ2tmaWFjcGF2bjRwa3NqdzdlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkXNjAkG7CfEVx3gcy/giphy.gif
+      altText: Globe
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Deep Dive
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
