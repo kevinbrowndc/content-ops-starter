@@ -336,8 +336,7 @@ sections:
       type: TitleBlock
     subtitle: MAT Curriculum & Instruction
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Lesson Plans, Participants Manuals, Facilitators Guide, eLearning, Train the Trainer Workshops and more.
     actions:
       - label: View Sample Lesson Plan
         url: https://docs.google.com/document/d/1kfdtNa3aGlLZSSrlsFakklAJCeMI711y/edit?usp=sharing&ouid=109873772328491221776&rtpof=true&sd=true
