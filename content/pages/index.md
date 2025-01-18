@@ -347,7 +347,7 @@ sections:
         type: Button
         
     media:
-      url: https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dobTNobDV4azZrMjhyM2ZmaTNiZ2tmaWFjcGF2bjRwa3NqdzdlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkXNjAkG7CfEVx3gcy/giphy.gif
+      url: https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8waTkyMXNna3I3eHk5cHBtZ29sZmxhMTlwbXFzeWJqbG81ZXQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ux6AQI6MBwGqY/giphy.gif
       altText: Globe
       type: ImageBlock
     badge:
