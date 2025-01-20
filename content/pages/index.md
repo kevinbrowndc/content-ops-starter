@@ -635,7 +635,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Kevin Brown Contact Form
+      text: Contact
       color: text-dark
       type: TitleBlock
     subtitle: Let's Chat!
