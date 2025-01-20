@@ -544,13 +544,13 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Personalm Life
+      text: Personal Life
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: My Daughter
+    subtitle: How I Spend my Time
     items:
       - title: My Number One
         tagline: Francesca
