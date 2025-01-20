@@ -430,14 +430,12 @@ sections:
       - title: >-
           "Kevin was the heart and soul of the University of Lome's American Corner. He routinely brought together a hundred or more enthusiastic college students. He organized diverse educational activities for the benefit of his students, was well respected, and incredibly passionate about what he was doing. I collaborated with Kevin on a number of projects. Because of his efforts, his students were energized and motivated. I would gladly work with him again."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'David Newstead, Peace Corps'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: https://media.licdn.com/dms/image/v2/D5603AQF_elWik4TkSw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1706716929341?e=1743033600&v=beta&t=DFlHVGrlMXA02RQzJ507zQWsRoODhFw8ANVL4nppNAE
+          altText: David Newstead
           styles:
             self:
               borderRadius: full
