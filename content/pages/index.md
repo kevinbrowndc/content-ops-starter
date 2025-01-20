@@ -550,7 +550,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: How I Spend my Time
+    subtitle: How I Spend my Free Time
     items:
       - title: My Number One
         tagline: Francesca
@@ -575,13 +575,13 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Playing Music
+        tagline: The Other Language
+        subtitle: I play Drums, Bass and Guitar
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          
         image:
-          url: /images/abstract-feature2.svg
+          url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737385595/studio_p7dstz.jpg
           altText: Placeholder image
           styles:
             self:
