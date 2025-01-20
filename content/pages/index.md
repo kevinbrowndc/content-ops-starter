@@ -482,17 +482,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "Kevin is a great teacher, who is willing to go the extra mile for his students. My brother and I are very thankful for him because he helped us immensely. He stayed after school with us for about a month, everyday to help us catch up with some work that we would be missing. If it hadn’t been for what he did for us we could lost the credit for that school year. Thanks a lot Mr.Brown!!"
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
+        subtitle: 'Yessica Cisneros, Daviess County High School'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: https://media.licdn.com/dms/image/v2/C5603AQGpPXdTorzZyg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517569326322?e=1743033600&v=beta&t=nKgvgRouTDaRuMAFBVs8A-jZ14FZjPwSXuM3UhW71Xc
+          altText: Yessica Cisneros, Daviess County High School
           styles:
             self:
               borderRadius: full
