@@ -509,17 +509,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+          “As my direct supervisor, Kevin excelled in delegating tasks and managing resources within our project team for the Teaching English as a Foreign Language program in Peace Corps Costa Rica. He formed a great deal of the project from scratch, utilizing and implementing a vast knowledge of English education methodologies and practices. Kevin has also planned and conducted evaluations of the project and program operations throughout the implementation of the TEFL project in Peace Corps Costa Rica by identifying problems and recommending efficiency and effectiveness improvements. Among his duties as program manager and Associate Peace Corps Director, Kevin has effectively and successfully upheld organization and timeliness of reports both nationally and internationally, managed data and statistics from volunteer work reports, and maintained liaison with external entities to the organization, such as the United States Embassy, the Costa Rican Ministry of Education, and many others. Kevin’s contribution to Peace Corps Costa Rica will leave a lasting effect on the organization both in the TEFL project and beyond.”
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'JKristen Lea Keller, MPH, CPXB'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+
         image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
+          url: https://media.licdn.com/dms/image/v2/D4E03AQFTdwIUq58htA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719528780036?e=1743033600&v=beta&t=_M0MGVXSi2tzG-Z1oi3JtR3MHVXpQgeuFX406zQT-io
+          altText: JKristen Lea Keller, MPH, CPXB
           styles:
             self:
               borderRadius: full
