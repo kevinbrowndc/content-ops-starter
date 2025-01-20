@@ -604,7 +604,7 @@ sections:
         text: >
           
         image:
-          url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737386401/gardening_vqhvxy.jpg
+          url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737386729/gardening_t0zibz.jpg
           altText: Placeholder image
           styles:
             self:
