@@ -430,7 +430,7 @@ sections:
       - title: >-
           "Kevin was the heart and soul of the University of Lome's American Corner. He routinely brought together a hundred or more enthusiastic college students. He organized diverse educational activities for the benefit of his students, was well respected, and incredibly passionate about what he was doing. I collaborated with Kevin on a number of projects. Because of his efforts, his students were energized and motivated. I would gladly work with him again."
         tagline: Testimonial 3
-        subtitle: 'David Newstead, Peace Corps'
+        subtitle: 'David Newstead, Peace Corps, Togo'
         text: >-
 
         image:
@@ -455,17 +455,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “I am blessed and honored to have been a part of the Peace Corps TEFL program under the leadership of Kevin Brown. He turned a large group of young, (mostly) inexperienced volunteers into capable and confident ESL Teachers with the ability to navigate and integrate into a foreign country and their public school system. Kevin worked extremely hard to create an inclusive and supportive work environment for all volunteers- easily reachable, flexible and empowered volunteers to take an active role in shaping and improving the design of our program. I have tremendous respect for Kevin as a supervisor and human being. The technical training before service and the professional feedback throughout my time in Peace Corps help to build my talent and self-assurance as a teacher. I thank Kevin for being a generous and inspiring Program Manager for the TEFL volunteers of Peace Corps, Tico 21. Thank you Kevin!”
         tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Julianne Dos Santos, Peace Corps. Costa Rica'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: https://media.licdn.com/dms/image/v2/C4D03AQHJPWNUTemedw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1583933989318?e=1743033600&v=beta&t=nKpNYhOXfWZLUsiaImbPwEWXk_d5dJRnxppjjFms2LM
+          altText: Julianne Dos Santos
           styles:
             self:
               borderRadius: full
