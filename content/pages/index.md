@@ -544,22 +544,22 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Personalm Life
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: My Daughter
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: My Number One
+        tagline: Francesca
+        subtitle: We like to play in the park.
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          
         image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
+          url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737385151/francesca_qihgsa.jpg
+          altText: Francesca
           styles:
             self:
               borderRadius: x-large
