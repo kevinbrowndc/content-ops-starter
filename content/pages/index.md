@@ -552,7 +552,7 @@ sections:
       type: TitleBlock
     subtitle: How I Spend my Free Time
     items:
-      - title: My Number One
+      - title: My Daughter
         tagline: Francesca
         subtitle: We like to play in the park.
         text: |
@@ -598,14 +598,13 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Gardening
+        tagline: It Still Amazes Me
+        subtitle: The Mystery of Life
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          
         image:
-          url: /images/abstract-feature1.svg
+          url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737386401/gardening_vqhvxy.jpg
           altText: Placeholder image
           styles:
             self:
