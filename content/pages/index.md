@@ -582,7 +582,7 @@ sections:
           
         image:
           url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737385595/studio_p7dstz.jpg
-          altText: Placeholder image
+          altText: Studio
           styles:
             self:
               borderRadius: x-large
