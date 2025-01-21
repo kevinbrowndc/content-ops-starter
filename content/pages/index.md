@@ -640,9 +640,9 @@ sections:
       type: TitleBlock
     subtitle: Let's Chat!
     text: |-
-  <form name="contact" method="POST" data-netlify="true">
     media:
       fields:
+    <form name="contact" method="POST" data-netlify="true">
         - name: name
           label: Name
           hideLabel: true
