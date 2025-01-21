@@ -639,10 +639,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Let's Chat!
+    <form name="contact" method="POST" data-netlify="true">
     text: |-
     media:
       fields:
-    
         - name: name
           label: Name
           hideLabel: true
@@ -663,6 +663,7 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+    </form>
       elementId: contact-form
       styles:
         self:
