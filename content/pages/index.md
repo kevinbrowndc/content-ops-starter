@@ -638,7 +638,7 @@ sections:
       text: Contact
       color: text-dark
       type: TitleBlock
-    subtitle: Let's Chat!
+    subtitle: Let's Chat!:
     <form name="contact" method="POST" data-netlify="true">
     text: |-
     media:
