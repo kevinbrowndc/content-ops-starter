@@ -640,7 +640,7 @@ sections:
       type: TitleBlock
     subtitle: Let's Chat!
     text: |-
-
+  <form name="contact" method="POST" data-netlify="true">
     media:
       fields:
         - name: name
@@ -684,6 +684,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: null
+    </form>
     badge:
       label: Contact Me
       color: text-primary
