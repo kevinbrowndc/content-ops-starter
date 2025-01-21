@@ -641,7 +641,7 @@ sections:
     subtitle: Let's Chat!
     
     text: |-
-    data-netlify="true"
+    
     media:
       fields:
         - name: name
