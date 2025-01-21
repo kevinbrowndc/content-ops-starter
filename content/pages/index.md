@@ -642,7 +642,7 @@ sections:
     text: |-
     media:
       fields:
-    <form name="contact" method="POST" data-netlify="true">
+    
         - name: name
           label: Name
           hideLabel: true
@@ -684,7 +684,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: null
-    </form>
+
     badge:
       label: Contact Me
       color: text-primary
