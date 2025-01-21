@@ -664,7 +664,7 @@ sections:
           width: full
           type: TextareaFormControl
 
-      elementId: contact-form
+      elementId: contact-form, netlify
       styles:
         self:
           padding:
