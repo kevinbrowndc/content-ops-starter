@@ -1,4 +1,4 @@
-import * as React from 'react';
+= import * as React from 'react';
 import classNames from 'classnames';
 
 import { getComponent } from '../../components-registry';
@@ -22,7 +22,8 @@ export default function FormBlock(props) {
     }
 
     return (
-        <form
+        <form 
+            name="contact" netlify,
             className={classNames(
                 'sb-component',
                 'sb-component-block',
