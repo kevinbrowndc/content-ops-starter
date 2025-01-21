@@ -23,7 +23,6 @@ export default function FormBlock(props) {
 
     return (
         <form 
-            name="contact" netlify,
             className={classNames(
                 'sb-component',
                 'sb-component-block',
