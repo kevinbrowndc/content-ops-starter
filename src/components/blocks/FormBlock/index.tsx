@@ -22,7 +22,7 @@ export default function FormBlock(props) {
     }
 
     return (
-        <form 
+        <form data-netlify=true>
             
             className={classNames(
                 'sb-component',
