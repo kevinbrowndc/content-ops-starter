@@ -694,7 +694,6 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 
-<div>
   <form method="post">
       <input id="csrf_token" name="csrf_token" type="hidden"           value="ImRlYTVlMDRiNDgwMTQyMzBjZjM4ZTM0Y2NkZWQxOTRjMWM1YjI2NzUi.YF9cuQ.CPIoOJq1ZTtTDR9j98h1Kab9fk8">
       <label for="first_name">First Name </label><input id="first_name" name="first_name" required type="text" value="">
@@ -718,7 +717,7 @@ sections:
 
       <input id="submit" name="submit" type="submit" value="Submit">
   </form>
-</div>
+
 
 
   
