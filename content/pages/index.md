@@ -694,7 +694,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 
-
+;
   <form name="contact" netlify netlify-honeypot="bot-field" hidden>
   <input type="text" name="name" />
   <input type="email" name="email" />
