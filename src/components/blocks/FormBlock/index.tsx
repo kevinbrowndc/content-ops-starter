@@ -3,7 +3,8 @@ import classNames from 'classnames';
 
 import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
-import SubmitButtonFormControl from './SubmitButtonFormControl';
+data-netlify="true"
+data-netlify-honeypot="bot-field"port SubmitButtonFormControl from './SubmitButtonFormControl';
 
 export default function FormBlock(props) {
     const formRef = React.createRef<HTMLFormElement>();
