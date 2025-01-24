@@ -693,13 +693,6 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-
-;
-  <form name="contact" netlify netlify-honeypot="bot-field" hidden>
-  <input type="text" name="name" />
-  <input type="email" name="email" />
-  <textarea name="message"></textarea>
-</form>
     
 seo:
   metaTitle: Kevin Brown Moreno
