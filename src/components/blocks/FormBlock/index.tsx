@@ -39,7 +39,6 @@ export default function FormBlock(props) {
                     : undefined,
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
             )}
-            <input id="csrf_token" name="csrf_token" type="hidden" value="ImRlYTVlMDRiNDgwMTQyMzBjZjM4ZTM0Y2NkZWQxOTRjMWM1YjI2NzUi.YF9cuQ.CPIoOJq1ZTtTDR9j98h1Kab9fk8">
             name={elementId}
             id={elementId}
             onSubmit={handleSubmit}
