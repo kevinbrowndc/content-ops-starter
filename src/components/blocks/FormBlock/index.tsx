@@ -3,7 +3,7 @@ import classNames from 'classnames';
 
 import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
-
+import SubmitButtonFormControl from './SubmitButtonFormControl';
 
 export default function FormBlock(props) {
     const formRef = React.createRef<HTMLFormElement>();
@@ -22,7 +22,7 @@ export default function FormBlock(props) {
     }
 
     return (
-        <form>    
+        <form
             className={classNames(
                 'sb-component',
                 'sb-component-block',
@@ -66,8 +66,6 @@ export default function FormBlock(props) {
                 <div className={classNames('mt-8', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}>
                     <SubmitButtonFormControl {...submitButton} {...(fieldPath && { 'data-sb-field-path': '.submitButton' })} />
                 </div>
-
-             
             )}
         </form>
     );
