@@ -22,8 +22,7 @@ export default function FormBlock(props) {
     }
 
     return (
-        <form 
-            
+        <form    
             className={classNames(
                 'sb-component',
                 'sb-component-block',
