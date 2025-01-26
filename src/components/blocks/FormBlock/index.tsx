@@ -22,7 +22,7 @@ export default function FormBlock(props) {
     }
 
     return (
-        <form enctype=“application/x-www-form-urlencoded"
+        <form 
             className={classNames(
                 'sb-component',
                 'sb-component-block',
