@@ -636,28 +636,16 @@ sections:
 
     type: FeaturedItemsSection
   - title:
-      text: Contact
+      text: 
       color: text-dark
       type: TitleBlock
-    subtitle: Let's Chat!
+    subtitle: 
     
     text: |-
     
    
 
-      elementId: contact-form
-      styles:
-        self:
-         
-      type: FormBlock
-      
 
-    badge:
-      label: Contact Me
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
     
 seo:
   metaTitle: Kevin Brown Moreno
