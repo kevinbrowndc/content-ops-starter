@@ -635,17 +635,7 @@ sections:
         textAlign: center
 
     type: FeaturedItemsSection
-  - title:
-      text: 
-      color: text-dark
-      type: TitleBlock
-    subtitle: 
     
-    text: |-
-    
-   
-
-
     
 seo:
   metaTitle: Kevin Brown Moreno
