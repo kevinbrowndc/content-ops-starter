@@ -22,7 +22,7 @@ export default function FormBlock(props) {
     }
 
     return (
-        <form method="POST" data-netlify="true"
+        <form onSubmit={handleFormSubmit}
             className={classNames(
                 'sb-component',
                 'sb-component-block',
