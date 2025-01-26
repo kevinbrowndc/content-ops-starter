@@ -633,14 +633,13 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-
-  type: FeaturedItemsSection
-    - title:
-        text: Contact
-        color: text-dark
-        type: TitleBlock
-      subtitle: Let's Chat! 
-    
+ 
+    type: FeaturedItemsSection
+  - title:
+      text: Contact
+      color: text-dark
+      type: TitleBlock
+    subtitle: Let's Chat!
     
     text: |-
     
