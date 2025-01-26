@@ -601,7 +601,7 @@ sections:
       - title: Gardening
         tagline: It Still Amazes Me
         subtitle: The Mystery of Life
-        text: |
+        text: >
           
         image:
           url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1737386729/gardening_t0zibz.jpg
@@ -634,17 +634,15 @@ sections:
       subtitle:
         textAlign: center
 
-      type: FeaturedItemsSection
+    type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Contact
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Let's Chat!
+    
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    
     media:
       fields:
         - name: name
@@ -667,6 +665,7 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+
       elementId: contact-form
       styles:
         self:
@@ -688,13 +687,13 @@ sections:
         iconPosition: right
         style: primary
         elementId: null
+
     badge:
-      label: Contact Us
+      label: Contact Me
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-   
     
 seo:
   metaTitle: Kevin Brown Moreno
