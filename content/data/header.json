@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "LinkedIn",
-            "url": "/pricing",
+            "url": "https://www.linkedin.com/in/kevinraybrown/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -22,8 +22,8 @@
         },
         {
             "label": "GitHub",
-            "altText": "Blog",
-            "url": "/blog",
+            "altText": "GitHub",
+            "url": "https://github.com/kevinbrowndc",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -31,8 +31,8 @@
         },
         {
             "label": "Download CV",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "CV",
+            "url": "https://drive.google.com/file/d/1qd6cwJ4yRDDmAt30PRPpIlSZoBpfuBFr/view?usp=sharing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -51,16 +51,16 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Sales Skills",
+                    "url": "https://docs.google.com/document/d/1Mc07KBNcWf9Jh9UUL0bXTF_WXRXNRcfe/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Telephone Skills",
+                    "url": "https://docs.google.com/document/d/1ykGo8mpxXDQTbDNJVg1XRPtShiXvG1um/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
