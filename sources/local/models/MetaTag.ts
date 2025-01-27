@@ -17,7 +17,7 @@ export const MetaTag: Model = {
         'og:title',
         'og:type',
         'og:image',
-        'og:image:alt',
+        'og:image:"https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png"',
         'og:url',
         'og:description',
         'og:locale',
