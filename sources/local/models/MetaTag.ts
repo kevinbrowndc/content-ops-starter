@@ -1,7 +1,7 @@
 import { Model } from '@stackbit/types';
 
 export const metadata = {
-  title: 'Next.js',
+  ogTitle: 'Next.js',
 }
 
 export const MetaTag: Model = {
