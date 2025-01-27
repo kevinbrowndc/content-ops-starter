@@ -1,10 +1,4 @@
 import { Model } from '@stackbit/types';
-export const metadata = {
-  openGraph: {
-    title: 'Next.js',
-    description: 'The React Framework for the Web',
-    url: 'https://nextjs.org',
-    siteName: 'Next.js',
 
 export const MetaTag: Model = {
   type: 'object',
