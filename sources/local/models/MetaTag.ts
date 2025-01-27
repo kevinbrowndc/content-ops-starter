@@ -5,6 +5,7 @@ export const MetaTag: Model = {
   name: 'MetaTag',
   label: 'Meta Tag',
   labelField: 'content',
+  ogImage: "https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png",
   fields: [
     {
       type: 'enum',
@@ -16,7 +17,7 @@ export const MetaTag: Model = {
       options: [
         'og:title',
         'og:type',
-        'og:image'',
+        'og:image',
         'og:url',
         'og:description',
         'og:locale',
