@@ -44,11 +44,11 @@
             "links": [
                 {
                     "label": "Cross Cultural HR",
-                    "url": "/",
+                    "url": "https://docs.google.com/document/d/1kfdtNa3aGlLZSSrlsFakklAJCeMI711y/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "https://docs.google.com/document/d/1kfdtNa3aGlLZSSrlsFakklAJCeMI711y/edit"
+                    "type": "Link"
                 },
                 {
                     "label": "Dropdown item",
