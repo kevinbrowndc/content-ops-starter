@@ -31,19 +31,6 @@ export default function Header(props) {
                     Skip to main content
                 </Link>
                 <HeaderVariants {...props} />
-                <meta name="description" content="HR innovate is an International Recruitment &amp; HR consultancy based in Nicosia, Cyprus. Our services include coaching, consulting, recruitment and more">
-                <meta property="og:title" content="Recruitment Agency in Cyprus | HR Innovate">
-                <meta property="og:type" content="website">
-                <meta property="og:image" content="https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png">
-                <meta property="og:description" content="HR innovate is an International Recruitment &amp; HR consultancy based in Nicosia, Cyprus. Our services include coaching, consulting, recruitment and more">
-                <meta property="og:url" content="https://www.hrinnovate.org/">
-                <meta property="og:locale" content="en_US">
-                <meta property="og:site_name" content="HR Innovate">
-                <meta property="fb:app_id" content="labecwp2050">
-                <meta name="twitter:card" content="summary_large_image">
-                <meta name="twitter:image" content="https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png">
-                <meta name="author" content="HR Innovate">
-                <meta name="date" content="2023-09-22T12:32:04+00:00">
             </div>
         </header>
     );
