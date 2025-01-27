@@ -39,16 +39,16 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Lesson Plans",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Cross Cultural HR",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "https://docs.google.com/document/d/1kfdtNa3aGlLZSSrlsFakklAJCeMI711y/edit"
                 },
                 {
                     "label": "Dropdown item",
