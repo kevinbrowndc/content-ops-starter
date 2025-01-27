@@ -1,5 +1,16 @@
 import { Model } from '@stackbit/types';
-
+export const metadata = {
+  metadataBase: new URL('https://acme.com'),
+  alternates: {
+    canonical: '/',
+    languages: {
+      'en-US': '/en-US',
+      'de-DE': '/de-DE',
+    },
+  },
+  openGraph: {
+    images: '/og-image.png',
+  },
 export const MetaTag: Model = {
   type: 'object',
   name: 'MetaTag',
