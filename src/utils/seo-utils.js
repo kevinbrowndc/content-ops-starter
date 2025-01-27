@@ -13,7 +13,7 @@ export function seoGenerateMetaTags(page, site) {
     pageMetaTags = {
         ...pageMetaTags,
         ...(seoTitle && { 'og:title': seoTitle }),
-        ...(ogImage && { 'og:image': "https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png" })
+        ...(ogImage && { 'og:image': https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png })
     };
 
     if (page.seo?.metaTags?.length) {
