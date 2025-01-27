@@ -8,10 +8,9 @@ export function seoGenerateMetaTags(page, site) {
     }
 
     const seoTitle = seoGenerateTitle(page, site);
-    const ogImage = seoGenerateOgImage(page, site);
+    const ogImage = seoGenerateOgImage('https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png');
 
     pageMetaTags = {
-        <meta property="og:image" content="https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png">
         ...pageMetaTags,
         ...(seoTitle && { 'og:title': seoTitle }),
         ...(ogImage && { 'og:image': 'https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png' })
