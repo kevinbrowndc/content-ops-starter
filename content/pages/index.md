@@ -14,8 +14,8 @@ sections:
       Management to drive innovation, efficiency, and growth in a remote role.
     actions:
       - label: View CV
-        altText: ''
-        url: 'https://drive.google.com/file/d/1i0Tsv4yiqyTloGGb_tg1N2A8iWZsamyb/view?usp=sharing'
+        altText: 'CV'
+        url: (https://drive.google.com/file/d/1i0Tsv4yiqyTloGGb_tg1N2A8iWZsamyb/view?usp=sharing}
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: View LinkedIn Profile
         altText: 'Linkedin'
-        url: 'https://www.linkedin.com/in/kevinraybrown/'
+        url: (https://www.linkedin.com/in/kevinraybrown/}
         showIcon: true
         icon: arrowRight
         iconPosition: right
