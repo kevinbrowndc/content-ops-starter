@@ -13,9 +13,9 @@ sections:
       leveraging my expertise at the intersection of Education, Technology, and
       Management to drive innovation, efficiency, and growth in a remote role.
     actions:
-      - label: Get started
+      - label: View CV
         altText: ''
-        url: https://www.hrinnovate.org/
+        url: https://drive.google.com/file/d/1i0Tsv4yiqyTloGGb_tg1N2A8iWZsamyb/
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -23,8 +23,8 @@ sections:
         elementId: ''
         type: Button
       - label: See Tutorials
-        altText: ''
-        url: /
+        altText: 'Visit Linkedin Profile'
+        url: https://www.linkedin.com/in/kevinraybrown/
         showIcon: true
         icon: arrowRight
         iconPosition: right
