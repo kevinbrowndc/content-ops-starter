@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Competencies
+      text: Key Skills
       color: text-dark
       styles:
         self:
