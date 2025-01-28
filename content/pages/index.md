@@ -12,25 +12,25 @@ sections:
       **Objective:** To contribute to the success of an organization by
       leveraging my expertise at the intersection of Education, Technology, and
       Management to drive innovation, efficiency, and growth in a remote role.
-    actions:
-      - label: View CV
-        altText: 'CV'
-        url: https://drive.google.com/file/d/1i0Tsv4yiqyTloGGb_tg1N2A8iWZsamyb/view?usp=sharing
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: View LinkedIn Profile
-        altText: 'Linkedin'
-        url: https://www.linkedin.com/in/kevinraybrown/
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    
+  - label: View CV
+    altText: 'CV'
+    url: https://drive.google.com/file/d/1i0Tsv4yiqyTloGGb_tg1N2A8iWZsamyb/view?usp=sharing
+    showIcon: false
+    icon: arrowRight
+    iconPosition: right
+    style: secondary
+    elementId: ''
+    type: Button
+  - label: View LinkedIn Profile
+    altText: 'Linkedin'
+    url: https://www.linkedin.com/in/kevinraybrown/
+    showIcon: true
+    icon: arrowRight
+    iconPosition: right
+    style: primary
+    elementId: ''
+    type: Link
     media:
       url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736537987/main-hero_mdzchf.jpg
       altText: Kevin Ray Brown Moreno
