@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Visit Linkedin Profile
         altText: 'Visit Linkedin Profile'
         url: https://www.linkedin.com/in/kevinraybrown/
         showIcon: true
