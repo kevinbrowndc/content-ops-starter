@@ -30,7 +30,7 @@ export const Button: Model = {
       name: 'url',
       label: 'URL',
       required: true,
-      default: '/',
+      default: '',
       hidden: false,
       localized: false
     },
