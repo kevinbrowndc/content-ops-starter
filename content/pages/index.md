@@ -232,13 +232,25 @@ sections:
     subtitle: From Multinational Conferences to Small Villages
     text: |-
       A higly effective communicator in cross cultural settings, Kevin has experience from large multinational conferences to small villages. Kevin has presented at conferences from Senegal to Costa Rica and represented the United States Goverment across the world. From Ambassadors, to village chiefs to community womens' groups meeting in a small living room, Kevin is comfortable in any scenario. 
-
+    actions:
+      - label: Get started
+        url: mailto:kevinbrown.dc@gmail.com
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: See Tutorials
+        url: mailto:kevinbrown.dc@gmail.com
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
     media:
       url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736703696/communication_yhdp7k.jpg
       altText: Peace Corps, Washington DC
       elementId: ''
       type: ImageBlock
-
     badge:
       label: Communication
       color: text-primary
