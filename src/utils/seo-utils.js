@@ -7,13 +7,10 @@ export function seoGenerateMetaTags(page, site) {
         });
     }
 
-    const seoTitle = seoGenerateTitle(page, site);
-    const ogImage = seoGenerateOgImage('https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png');
-
     pageMetaTags = {
         ...pageMetaTags,
         ...(seoTitle && { 'og:title': seoTitle }),
-        ...(ogImage && { 'og:image': seoImage })
+        ...(ogImage && { 'og:image': 'https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png })
     };
 
     if (page.seo?.metaTags?.length) {
