@@ -37,7 +37,7 @@ export const Seo: Model = {
       type: 'image',
       name: 'socialImage',
       label: ' Image for social sharing',
-      description: 'Set the image used when sharing this page on social networks (e.g. Facebook, Twitter). If not set, the default social image defined in the site configuration is used.',
+      description: 'https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png',
       required: false,
       hidden: false,
       localized: false
