@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
       - label: View LinkedIn Profile
-        altText: ''
+        altText: 'Linkedin'
         url: https://www.linkedin.com/in/kevinraybrown/
         showIcon: true
         icon: arrowRight
