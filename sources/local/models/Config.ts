@@ -50,7 +50,7 @@ export const Config: Model = {
             name: 'defaultSocialImage',
             label: 'Default image for social sharing',
             description:
-                'Default image to use for the og:image meta tag in all pages, except in pages that define another image.',
+                'https://www.hrinnovate.org/static/assets/images/SEO/hr_innovate.png',
             required: false,
             hidden: false,
             localized: false
