@@ -15,7 +15,7 @@ sections:
     actions:
       - label: View CV
         altText: ''
-        url: /
+        url: https://drive.google.com/file/d/1i0Tsv4yiqyTloGGb_tg1N2A8iWZsamyb/view?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: View LinkedIn Profile
         altText: ''
-        url: /
+        url: https://www.linkedin.com/in/kevinraybrown/
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -142,8 +142,8 @@ sections:
         type: FeaturedItem
     actions:
       - label: Contact Now
-        altText: ''
-        url: /
+        altText: 'email'
+        url: mailto:kevinbrown.dc@gmail.com
         showIcon: false
         icon: arrowRight
         iconPosition: right
