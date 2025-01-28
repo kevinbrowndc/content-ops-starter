@@ -12,23 +12,7 @@ sections:
       **Objective:** To contribute to the success of an organization by
       leveraging my expertise at the intersection of Education, Technology, and
       Management to drive innovation, efficiency, and growth in a remote role.
-
-  - label: View CV
-    label: View My CV
-    url: https://drive.google.com/file/d/1i0Tsv4yiqyTloGGb_tg1N2A8iWZsamyb/view?usp=sharing
-    icon: arrowRight
-    iconPosition: right
-    style: secondary
-        
-  - label: View LinkedIn Profile
-    altText: 'Linkedin'
-    url: https://www.linkedin.com/in/kevinraybrown/
-    showIcon: true
-    icon: arrowRight
-    iconPosition: right
-    style: secondary
-    elementId: ''
-        type: Link
+  - 
     media:
       url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736537987/main-hero_mdzchf.jpg
       altText: Kevin Ray Brown Moreno
@@ -138,16 +122,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Contact Now
-        altText: 'email'
-        url: mailto:kevinbrown.dc@gmail.com
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+
     badge:
       label: KEVIN RAY BROWN MORENO
       color: text-primary
