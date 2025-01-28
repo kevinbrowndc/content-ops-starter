@@ -12,7 +12,25 @@ sections:
       **Objective:** To contribute to the success of an organization by
       leveraging my expertise at the intersection of Education, Technology, and
       Management to drive innovation, efficiency, and growth in a remote role.
-  - 
+    actions:
+      - label: Get started
+        altText: ''
+        url: https://www.hrinnovate.org/
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link  - 
     media:
       url: https://res.cloudinary.com/ddwt8eygx/image/upload/v1736537987/main-hero_mdzchf.jpg
       altText: Kevin Ray Brown Moreno
