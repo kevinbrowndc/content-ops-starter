@@ -19,7 +19,7 @@ export const Seo: Model = {
       type: 'string',
       name: 'metaDescription',
       label: 'Description meta tag',
-      description: 'The description tag is used by search engines and for social sharing. By default, the tag is not set.',
+      description: 'Learning and Management Portfolio',
       required: false,
       hidden: false,
       localized: false
