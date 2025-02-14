@@ -118,7 +118,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Management
-        subtitle: Chief Operating Officer at HR Innovate
+        subtitle: Head of Operations at HR Innovate
         text: >
           An agile project manager who has proven time and again, over 20 years,
           the ability to grow programs and projects with minimal resources while
