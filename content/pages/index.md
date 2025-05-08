@@ -10,12 +10,21 @@ sections:
     subtitle: ''
     text: >
       **Objective:** To contribute to the success of an organization by
-      leveraging my expertise at the intersection of Education, Technology, and
+      leveraging my expertise at the intersection of Technology, and
       Management to drive innovation, efficiency, and growth in a remote role.
     actions:
       - label: View CV
         altText: ''
         url: https://drive.google.com/file/d/1i0Tsv4yiqyTloGGb_tg1N2A8iWZsamyb/
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+        label: View Transcript
+        altText: ''
+        url: https://drive.google.com/file/d/1MJCvH5b_-n4Uusz8zd2W9rEeCh8mtk72/view?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
