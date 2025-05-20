@@ -11,7 +11,7 @@ sections:
     text: >
       **Objective:** To contribute to the success of an organization by
       leveraging my expertise at the intersection of Technology, and
-      Management to drive innovation, efficiency, and growth in a remote role.
+      Management to drive innovation, efficiency, and growth.
     actions:
       - label: View CV
         altText: ''
